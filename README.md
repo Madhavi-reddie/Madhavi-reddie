@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Madhavi-reddie/Madhavi-reddie/blob/main/Bannerimage.png)
 
 <h1 align="center">Hi 👋, I'm A VENKATA MADHAVI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
