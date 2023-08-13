@@ -1,5 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm A VENKATA MADHAVI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align ="right" alt="coding" width="400" src="![image](https://github.com/Madhavi-reddie/Madhavi-reddie/assets/104361107/f856b89e-52f9-47a5-8c27-2ae1fea87c0f)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-reddie&label=Profile%20views&color=0e75b6&style=flat" alt="madhavi-reddie" /> </p>
 
