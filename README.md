@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-reddie&label=Profile%20views&color=0e75b6&style=flat" alt="madhavi-reddie" /> </p>
 
-- 🔭 I’m currently as **Student**
+- 🔭 I’m recently graduated Student
 
 - 🌱 I’m currently learning **mern stack**
 
