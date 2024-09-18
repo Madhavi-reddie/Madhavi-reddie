@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 👨‍💻 All of my projects are available at [https://madhavi-reddie.github.io/MyPortfolio/](https://madhavi-reddie.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://madhavi-reddie.github.io/MyPortfolio/](https://personal-portfolio-ha5w.vercel.app/)
 
 - 📫 How to reach me **madhureddy5584@gmail.com**
 
