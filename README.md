@@ -1,4 +1,4 @@
-![logo]![image](https://github.com/user-attachments/assets/170e1a38-add6-4f73-8d1e-24c81cdb6e0e)
+![image](https://github.com/user-attachments/assets/170e1a38-add6-4f73-8d1e-24c81cdb6e0e)
 
 
 <h1 align="center">Hi 👋, I'm A VENKATA MADHAVI</h1>
